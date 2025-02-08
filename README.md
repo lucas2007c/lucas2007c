@@ -4,7 +4,7 @@
 - 🎓Curso técnico de informática para internet no IFSP
 
 ### Habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,prisma,docker)](https://skillicons.dev)
 
 ##
 <div> 
