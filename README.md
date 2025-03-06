@@ -1,7 +1,8 @@
 ## Olá, me chamo Lucas, Seja bem vindo!👋
-- 💻Desenvolvedor full stack
+- 💻Desenvolvedor full stack & mobile
 - 🤔Buscando sempre melhorar e aprender coisas novas
-- 🎓Curso técnico de informática para internet no IFSP
+- 🏆Curso técnico de informática para internet no IFSP
+- 🎓Cursando ADS (análise e desenvolvimento de sistemas) no IFSP
 
 ### Habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,prisma,docker)](https://skillicons.dev)
