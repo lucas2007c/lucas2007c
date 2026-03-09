@@ -6,6 +6,7 @@ Aqui no meu GitHub, você vai encontrar os projetos que venho construindo para a
 - 🏆Curso técnico de informática para internet no IFSP
 - 🎓Cursando ADS (análise e desenvolvimento de sistemas) no IFSP
 
+## Skills
 #### <img align="center" width="24" height="24" src="https://api.iconify.design/mdi:monitor-dashboard.svg?color=%232F81F7"> Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,8 +28,8 @@ Aqui no meu GitHub, você vai encontrar os projetos que venho construindo para a
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-##
+## Contato
 <div> 
   <a href="https://lucascarneiro.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucascarneirog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucascarneirog/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" target="_blank"></a> 
 </div>
